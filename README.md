@@ -49,8 +49,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
           
 <img 
      align="left" 
-    alt="SQLite" 
-    title="SQLite"
+    alt="Azure" 
+    title="Azure"
     width="30px" 
     style="padding-right: 10px;"
     src="https://devicon-website.vercel.app/api/azure/original.svg"></img>
+
+<img 
+     align="left" 
+    alt="Raspberrypi" 
+    title="Raspberrypi"
+    width="30px" 
+    style="padding-right: 10px;"
+src="https://devicon-website.vercel.app/api/raspberrypi/original.svg"></img>
+          
