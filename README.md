@@ -10,6 +10,7 @@
 
 Me chamo Fernanda Meneguel Meira Foltran, tenho 21 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonada por tecnologia e venho compartilhar meus conhecimentos em tecnologia aqui com vocês.
 
+**`👤 Conecte-se comigo:`**
 <div> 
   <a href="https://www.linkedin.com/in/fernanda-foltran?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:meneguelfernanda938@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
