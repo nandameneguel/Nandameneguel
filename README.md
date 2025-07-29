@@ -73,6 +73,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-ori
 src="https://devicon-website.vercel.app/api/raspberrypi/original.svg"></img>
 
 
+  <img 
+    align="left" 
+    alt="Raspberrypi" 
+    title="Raspberrypi"
+    width="30px" 
+    style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nandameneguel/nandameneguel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nandameneguel/nandameneguel/output/github-contribution-grid-snake-dark.svg">
