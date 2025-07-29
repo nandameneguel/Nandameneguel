@@ -8,7 +8,7 @@
 
 **`Analista de Dados 🎲`**
 
-Me chamo Fernanda Meneguel Meira Foltran, tenho 21 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonada por tecnologia e venho compartilhar meus conhecimentos em tecnologia aqui com vocês.
+Olá! Meu nome é Fernanda Meneguel Meira Foltran, tenho 21 anos e sou natural do Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio, onde venho me aprofundando cada vez mais no universo da tecnologia — uma área pela qual sou verdadeiramente apaixonada. Acredito no poder do conhecimento e estou aqui para dividir meus aprendizados nesse fascinante mundo tech. 
 
 **`👤 Conecte-se comigo:`**
 <div> 
