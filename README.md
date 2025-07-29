@@ -33,8 +33,8 @@ Olá! Meu nome é Fernanda, tenho 21 anos e sou natural do Paraná. Atualmente, 
 
  <img 
      align="left" 
-    alt="SQL" 
-    title="SQL"
+    alt="SQLServer" 
+    title="SQLServer"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" 
