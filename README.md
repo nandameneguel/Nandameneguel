@@ -6,9 +6,9 @@
   </a>
 </div>
 
-**`Analista de Dados 🎲`**
+### Analista de Dados | Graduada em Análise e Desenvolvimento de Sistemas
 
-Olá! Meu nome é Fernanda, tenho 21 anos e sou natural do Paraná. Atualmente, sou formada em Análise de Desenvolvimento de Sistemas,e venho me aprofundando cada vez mais no universo da tecnologia — uma área pela qual sou verdadeiramente apaixonada. Acredito no poder do conhecimento e estou aqui para dividir meus aprendizados nesse fascinante mundo tech. 
+Olá! Sou a Fernanda, profissional de TI com foco em **Análise de Dados e Business Intelligence**. Atualmente trabalho como Analista de Sistemas Jr., onde aplico tecnologia para resolver desafios de negócio. Sou graduada em Análise e Desenvolvimento de Sistemas e apaixonada por transformar grandes volumes de dados em decisões estratégicas.
 
 **`👤 Conecte-se comigo:`**
 <div> 
