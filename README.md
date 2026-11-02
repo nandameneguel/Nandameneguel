@@ -8,7 +8,7 @@
 
 ### Analista de Dados | Graduada em Análise e Desenvolvimento de Sistemas
 
-Olá! Sou a Fernanda, profissional de TI com foco em **Análise de Dados e Business Intelligence**. Atualmente trabalho como Analista de Sistemas Jr., onde aplico tecnologia para resolver desafios de negócio. Sou graduada em Análise e Desenvolvimento de Sistemas e apaixonada por transformar grandes volumes de dados em decisões estratégicas.
+Olá! Sou a Fernanda, tenho 22 anos e sou uma profissional de TI com foco em **Análise de Dados e Business Intelligence**. Atualmente trabalho como Analista de Dados Jr., onde aplico tecnologia para resolver desafios de negócio. Sou graduada em Análise e Desenvolvimento de Sistemas e sou apaixonada por transformar grandes volumes de dados em decisões estratégicas.
 
 **`👤 Conecte-se comigo:`**
 <div> 
